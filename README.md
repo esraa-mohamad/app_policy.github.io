@@ -3,12 +3,16 @@
 This site hosts the privacy policy and other legal documents for my applications. Below is the privacy policy:
 
 ---
-
+# Privacy Policy
 ## 📄 Privacy Policy for Elsadeken
 
 [Privacy Policy for Elsadeken](PRIVACY_POLICY_ELSADEKEN.md)
 
-Terms of Service for Elsadeken *(Coming Soon)*
+---
+
+# Terms and Conditions
+## 📄 Terms of Elsadeken
+[Terms of Elsadeken](TERMS_OF_ELSADEKEN.md)
 
 ---
 
