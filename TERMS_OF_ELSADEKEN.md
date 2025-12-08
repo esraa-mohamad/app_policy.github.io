@@ -252,8 +252,7 @@ If you have any questions about these Terms, please contact us:
 
 - **Email:** support@elsadeken.com
 - **Support:** help@elsadeken.com
-- **Address:** [Your Company Address]
-
+  
 ## 19. Acknowledgment
 
 By using Elsadeken, you acknowledge that:
