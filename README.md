@@ -5,19 +5,19 @@ This site hosts the privacy policy and other legal documents for my applications
 ---
 # Privacy Policy
 ## 📄 Privacy Policy for Elsadeken
-[Privacy Policy for Elsadeken](PRIVACY_POLICY_ELSADEKEN.md)
+[Privacy Policy for Elsadeken](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_ELSADEKEN.html)
 
 ## 📄 Privacy Policy for Freelancer
-[Privacy Policy for Freelancer](PRIVACY_POLICY_FREELANCER.md)
+[Privacy Policy for Freelancer](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_FREELANCER.html)
 
 ---
 
 # Terms and Conditions
 ## 📄 Terms of Elsadeken
-[Terms of Elsadeken](TERMS_OF_ELSADEKEN.md)
+[Terms of Elsadeken](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_OF_ELSADEKEN.html)
 
 ## 📄 Terms of Freelancer
-[Terms of Freelancer](TERMS_OF_FREELANCER.md)
+[Terms of Freelancer](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_OF_FREELANCER.html)
 
 ---
 
