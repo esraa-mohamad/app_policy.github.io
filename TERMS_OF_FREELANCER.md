@@ -278,7 +278,7 @@ By using the Freelancer App, you acknowledge that you have read, understood, and
 **App Information:**
 - **App Name:** Freelancer
 - **Bundle ID:** com.techorg.freelancer
-- **Developer:** [TechOrd/Developed by Esraa Mohamad]
+- **Developer:** [TechOrg/Developed by Esraa Mohamad]
 
 *These Terms and Conditions are effective as of the date stated above and apply to all users of the Freelancer App.*
 
