@@ -5,14 +5,21 @@ This site hosts the privacy policy and other legal documents for my applications
 ---
 # Privacy Policy
 ## 📄 Privacy Policy for Elsadeken
-
 [Privacy Policy for Elsadeken](PRIVACY_POLICY_ELSADEKEN.md)
+__
+## 📄 Privacy Policy for Freelancer
+[Privacy Policy for Freelancer](PRIVACY_POLICY_Freelancer.md)
+__
 
 ---
 
 # Terms and Conditions
 ## 📄 Terms of Elsadeken
 [Terms of Elsadeken](TERMS_OF_ELSADEKEN.md)
+__
+## 📄 Terms of Freelancer
+[Terms of Freelancer](TERMS_OF_Freelancer.md)
+__
 
 ---
 
