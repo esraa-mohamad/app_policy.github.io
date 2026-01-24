@@ -8,7 +8,7 @@ This site hosts the privacy policy and other legal documents for my applications
 [Privacy Policy for Elsadeken](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_ELSADEKEN.html)
 
 ## 📄 Privacy Policy for Freelancer
-[Privacy Policy for Freelancer](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_FREELANCER.html)
+[Privacy Policy for Freelancer](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_FREELANCER_UPDATED.html)
 
 ---
 
