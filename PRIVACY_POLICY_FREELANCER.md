@@ -183,7 +183,7 @@ By using our App, you consent to our Privacy Policy and agree to its terms.
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email:** [esoodawood186@gmail.com]  
+**Email:** [technology.organizationsa@gmail.com]  
 **App Support:** Available through the App's "Contact Us" feature
 
 ## Compliance
