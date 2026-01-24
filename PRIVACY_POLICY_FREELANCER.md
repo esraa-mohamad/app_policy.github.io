@@ -198,8 +198,7 @@ This Privacy Policy is designed to comply with:
 ## Data Controller Information
 
 **App Name:** Freelancer  
-**Bundle ID:** com.techorg.freelancer  
-**Developer:** [TechOrg منظمة التقنية/Developed by Esraa Mohamed]  
+**Developer:** [Esraa Mohamed]  
 **Contact:** [esoodawood186@gmail.com]
 
 ---
