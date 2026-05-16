@@ -18,6 +18,8 @@ This repository contains:
 |------------|----------|
 | **Elsadeken** | [View Privacy Policy](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_ELSADEKEN.html) |
 | **Freelancer** | [View Privacy Policy](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_FREELANCER_UPDATED.html) |
+| **YUB Steam Client** | [View Privacy Policy](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_YUB_STEAM_CLIENT.html) |
+| **YUB Steam Worker** | [View Privacy Policy](https://esraa-mohamad.github.io/app_policy.github.io/PRIVACY_POLICY_YUB_STEAM_WORKER.html) |
 
 ---
 
@@ -27,6 +29,8 @@ This repository contains:
 |------------|----------|
 | **Elsadeken** | [View Terms & Conditions](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_OF_ELSADEKEN.html) |
 | **Freelancer** | [View Terms & Conditions](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_OF_FREELANCER.html) |
+| **YUB Steam Client** | [View Terms & Conditions](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_YUB_STEAM_CLIENT.html) |
+| **YUB Steam Worker** | [View Terms & Conditions](https://esraa-mohamad.github.io/app_policy.github.io/TERMS_YUB_STEAM_WORKER.html) |
 
 ---
 
