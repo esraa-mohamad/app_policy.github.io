@@ -331,7 +331,6 @@ This Privacy Policy is designed to align with:
 | App Name | YUB Steam Client |
 | Bundle ID | `yub.client.techorg` |
 | Developer | Esraa Mohamad AbdelHafiz / TechOrg |
-| Platform | https://app.yubsteam.com |
 
 ---
 
@@ -340,7 +339,7 @@ This Privacy Policy is designed to align with:
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>TechOrg</strong>
+  Made with ❤️ by <strong>Dexterous Flutter Team in TechOrg</strong>
 </p>
 
 ---
