@@ -2,7 +2,7 @@
 
 > **Last Updated:** May 16, 2026
 
-Welcome to **YUB Steam Client App**.  
+Welcome to **YUB Steam Client App** : **YUB Steam - يوب ستيم** .  
 Your privacy and data security are important to us. This Privacy Policy explains how we collect, use, protect, and manage your information when you use our mobile application and services.
 
 🌐 **Official Email:**  
