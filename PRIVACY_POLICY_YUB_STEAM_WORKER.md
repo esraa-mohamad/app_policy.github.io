@@ -404,12 +404,3 @@ This Privacy Policy is designed to align with:
 ---
 
 > This Privacy Policy applies to all users of the YUB Steam Client App and is effective as of the date listed above.
-
-
-<p align="center">
-  Made with ❤️ by <strong>TechOrg</strong>
-</p>
-
----
-
-> This Privacy Policy applies to all authorized users of the YUB Steam Worker App and is effective as of the date listed above.
