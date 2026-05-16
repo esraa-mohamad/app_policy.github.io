@@ -5,7 +5,7 @@
 Welcome to **YUB Steam Client App**.  
 Your privacy and data security are important to us. This Privacy Policy explains how we collect, use, protect, and manage your information when you use our mobile application and services.
 
-🌐 **Official Platform:**  
+🌐 **Official Email:**  
 https://app.yubsteam.com
 
 By downloading, accessing, or using the App, you agree to the practices described in this Privacy Policy.
