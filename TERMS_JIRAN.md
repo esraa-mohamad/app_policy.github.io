@@ -286,7 +286,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** esoodawood186@gmail.com  
+**Email:** jiran.care@gmail.com  , technology.organizationsa@gmail.com
 **Address:** TechOrg — Technology Organization  
 **App Support:** Complaints and Contact Us inside the App
 
@@ -318,8 +318,6 @@ By using Jiran, you acknowledge that you have read, understood, and agree to be 
 
 - **App Name:** Jiran - جيران
 - **Application / Bundle ID:** com.techorg.jiranmobilemobile
-- **API:** https://app.jiranapp.net
-- **Realtime:** https://socket.jiranapp.net
-- **Developer:** TechOrg / Dexterous Flutter Team
+- **Developer:** TechOrg / Esraa Mohamed and Kareem Mohamed are flutter developer
 
 *These Terms and Conditions are effective as of the date stated above and apply to customers and service providers of the Jiran app.*
