@@ -362,7 +362,7 @@ This Privacy Policy is designed to align with:
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>Dexterous Flutter Team in TechOrg</strong>
+  Made  by <strong>Esraa and Kareem Flutter Team in TechOrg</strong>
 </p>
 
 ---
