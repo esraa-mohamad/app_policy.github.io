@@ -5,11 +5,6 @@
 Welcome to **Jiran** : **Jiran - جيران**.  
 Your privacy and data security are important to us. This Privacy Policy explains how we collect, use, protect, and manage your information when you use our mobile application and services.
 
-🌐 **Official service:**  
-https://app.jiranapp.net
-
-By downloading, accessing, or using the App, you agree to the practices described in this Privacy Policy.
-
 ---
 
 # 📌 Table of Contents
@@ -333,7 +328,7 @@ If you have any questions or privacy-related requests:
 
 ## 📧 Email Support
 - technology.organizationsa@gmail.com
-- esoodawood186@gmail.com
+- jiran.care@gmail.com
 
 ## 🛠 In-App Support
 Use Contact Us, or the complaints section, inside the App. Contact details shown in the App are loaded from our servers.
@@ -358,9 +353,7 @@ This Privacy Policy is designed to align with:
 |---|---|
 | App Name | Jiran - جيران |
 | Application / Bundle ID | `com.techorg.jiranmobilemobile` |
-| Service | https://app.jiranapp.net |
-| Realtime | https://socket.jiranapp.net |
-| Developer | TechOrg / Dexterous Flutter Team |
+| Developer | TechOrg / Esraa Mohamed & Kareem Mohamed are flutter dev |
 
 ---
 
